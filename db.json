@@ -1,0 +1,156 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nombre": "HTML",
+            "descripcion": "Lenguaje de marcado que se utiliza para organizar la estructura de sitios web y es de suma importancia en el campo del desarrollo web.",
+            "color": "#FF5733"
+        },
+        {
+            "id": 2,
+            "nombre": "CSS",
+            "descripcion": "Lenguaje de estilización de etiquetas HTML, en conjunto con HTML, desempeña un papel esencial en el desarrollo web al permitir la definición y aplicación de estilos visuales a los elementos de una página web.",
+            "color": "#3498DB"
+        },
+        {
+            "id": 3,
+            "nombre": "JavaScript",
+            "descripcion": "Lenguaje de programación ampliamente utilizado en desarrollo web para crear interacciones dinámicas y mejorar la funcionalidad de las páginas web.",
+            "color": "#FFC300"
+        },
+        {
+            "id": 4,
+            "nombre": "React",
+            "descripcion": "Librería de JavaScript utilizada para construir interfaces de usuario interactivas y reactivas en aplicaciones web, destacándose por su eficiencia y modularidad.",
+            "color": "#1F618D"
+        },
+        {
+            "id": 5,
+            "nombre": "Python",
+            "descripcion": "Lenguaje de programación con una sintaxis simple que se aprende rápidamente. Su creciente conjunto de bibliotecas y su evolución constante lo convierten en una herramienta cada vez más poderosa en el mundo de la programación.",
+            "color": "#70D3FF"
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "Curso HTML para Principiantes",
+            "url": "https://www.youtube.com/watch?v=rbuYtrNUxg4",
+            "miniatura": "https://i3.ytimg.com/vi/rbuYtrNUxg4/maxresdefault.jpg",
+            "categoria": "HTML",
+            "descripcion": "Introducción a HTML, el lenguaje que permite la creación de paginas y sitios web y es una de las tecnologías fundamentales del desarollo web, tanto de aplicaciones Grandes como de sitios web pequeños."
+        },
+        {
+            "id": 2,
+            "titulo": "Aprende HTML y CSS - Curso Desde Cero",
+            "url": "https://www.youtube.com/watch?v=XqFR2lqBYPs",
+            "miniatura": "https://i3.ytimg.com/vi/XqFR2lqBYPs/maxresdefault.jpg",
+            "categoria": "HTML",
+            "descripcion": "Fundamentos de HTML y CSS paso a paso con ejemplos detallados."
+        },
+        {
+            "id": 3,
+            "titulo": "Curso de HTML5 desde CERO",
+            "url": "https://www.youtube.com/watch?v=kN1XP-Bef7w",
+            "miniatura": "https://i3.ytimg.com/vi/kN1XP-Bef7w/maxresdefault.jpg",
+            "categoria": "HTML",
+            "descripcion": "Aprendizaje de este gran tutorial de HTML5 desde cero"
+        },
+        {
+            "id": 4,
+            "titulo": "10 BUENAS PRÁCTICAS en HTML",
+            "url": "https://www.youtube.com/watch?v=Ohv5a-HWf7M",
+            "miniatura": "https://i3.ytimg.com/vi/Ohv5a-HWf7M/maxresdefault.jpg",
+            "categoria": "HTML",
+            "descripcion": "Aprende HTML de la mejor forma posible, detallando las mejores prácticas al usar este lenguaje"
+        },
+        {
+            "id": 5,
+            "titulo": "Aprende HTML en 15 Minutos",
+            "url": "https://www.youtube.com/watch?v=mNbnV3aN3KA",
+            "miniatura": "https://i3.ytimg.com/vi/mNbnV3aN3KA/maxresdefault.jpg",
+            "categoria": "HTML",
+            "descripcion": "Aprende todo de HTML5"
+        },
+        {
+            "id": 6,
+            "titulo": "Aprende HTML y CSS - Curso Desde Cero",
+            "url": "https://www.youtube.com/watch?v=XqFR2lqBYPs",
+            "miniatura": "https://i3.ytimg.com/vi/XqFR2lqBYPs/maxresdefault.jpg",
+            "categoria": "CSS",
+            "descripcion": "Fundamentos de HTML y CSS paso a paso con ejemplos detallados."
+        },
+        {
+            "id": 7,
+            "titulo": "Curso de CSS desde CERO",
+            "url": "https://www.youtube.com/watch?v=OWKXEJN67FE",
+            "miniatura": "https://i3.ytimg.com/vi/OWKXEJN67FE/maxresdefault.jpg",
+            "categoria": "CSS",
+            "descripcion": "Curso de CSS desde cero a experto, durante el aprendizaje de este curso de CSS 3, vas a aprender CSS facil."
+        },
+        {
+            "id": 8,
+            "titulo": "Curso de CSS desde CERO",
+            "url": "https://www.youtube.com/watch?v=3yM5uXp-T_0",
+            "miniatura": "https://i3.ytimg.com/vi/3yM5uXp-T_0/maxresdefault.jpg",
+            "categoria": "CSS",
+            "descripcion": "Aprende todo de CSS"
+        },
+        {
+            "id": 9,
+            "titulo": "CSS Grid vs Flexbox - Cuando usar uno u otro.",
+            "url": "https://www.youtube.com/watch?v=6qko7Nbe8YA",
+            "miniatura": "https://i3.ytimg.com/vi/6qko7Nbe8YA/maxresdefault.jpg",
+            "categoria": "CSS",
+            "descripcion": "Diferencias entre CSS Grid y Flexbox para construir sitios web y layouts."
+        },
+        {
+            "id": 10,
+            "titulo": "7 Trucos de CSS AVANZADO que NO SABÍAS!!!",
+            "url": "https://www.youtube.com/watch?v=mZLgUBHdvb8",
+            "miniatura": "https://i3.ytimg.com/vi/mZLgUBHdvb8/maxresdefault.jpg",
+            "categoria": "CSS",
+            "descripcion": "Debes conocer estos 7 trucos de CSS que te ayudarán a llevar tu nivel de CSS a otro nivel."
+        },
+        {
+            "id": 11,
+            "titulo": "Curso de JAVASCRIPT desde CERO (Completo) - Nivel JUNIOR",
+            "url": "https://www.youtube.com/watch?v=z95mZVUcJ-E",
+            "miniatura": "https://i3.ytimg.com/vi/z95mZVUcJ-E/maxresdefault.jpg",
+            "categoria": "JavaScript",
+            "descripcion": "Este es el curso de javascript desde cero a experto que vas a terminar, te prometo que no te vas a aburrir durante el aprendizaje de este curso de javascript, vas a aprender javascript fácil."
+        },
+        {
+            "id": 12,
+            "titulo": "Aprende JavaScript - Curso Completo desde Cero",
+            "url": "https://www.youtube.com/watch?v=ivdTnPl1ND0",
+            "miniatura": "https://i3.ytimg.com/vi/ivdTnPl1ND0/maxresdefault.jpg",
+            "categoria": "JavaScript",
+            "descripcion": "En este curso completo de JavaScript aprenderás todo lo que necesitas saber para comenzar a trabajar este lenguaje de programación paso a paso con ejemplos."
+        },
+        {
+            "id": 13,
+            "titulo": "JAVASCRIPT Desde Cero: Primeros Pasos en una hora",
+            "url": "https://www.youtube.com/watch?v=6cnFl9aHD5Y",
+            "miniatura": "https://i3.ytimg.com/vi/6cnFl9aHD5Y/maxresdefault.jpg",
+            "categoria": "JavaScript",
+            "descripcion": "Tutorial de primeros pasos con el lenguaje de programación JavaScript, uno de los más solicitados y versátiles de la actualidad."
+        },
+        {
+            "id": 14,
+            "titulo": "JavaScript para Manipulación del DOM - Curso con Proyectos",
+            "url": "https://www.youtube.com/watch?v=koiPxFFiqJ4",
+            "miniatura": "https://i3.ytimg.com/vi/koiPxFFiqJ4/maxresdefault.jpg",
+            "categoria": "JavaScript",
+            "descripcion": "En este curso aprenderás a usar JavaScript para manipular el DOM de una página web. Aprenderás los métodos y las técnicas más importantes para manipular los elementos HTML y cómo detectar y manejar eventos."
+        },
+        {
+            "id": 15,
+            "titulo": "MEJORA tu código JAVASCRIPT con PARÁMETROS nombrados en las funciones",
+            "url": "https://www.youtube.com/watch?v=jmxZrIHPRDg",
+            "miniatura": "https://i3.ytimg.com/vi/jmxZrIHPRDg/maxresdefault.jpg",
+            "categoria": "JavaScript",
+            "descripcion": "Una buena práctica que debes considerar para que tu código aguante mejor el paso del tiempo."
+        }
+    ]
+}
